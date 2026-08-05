@@ -169,3 +169,22 @@ Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:3000
     at node:net:2275:7
     at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
 
+Timestamp: 2026-08-05T04:54:03.719Z
+Stage: listening
+Origin: listen
+execPath: C:\Program Files\nodejs\node.exe
+cwd: C:\Users\dell\TOT
+basePath: C:\Users\dell\TOT
+NODE_ENV: development
+platform: win32
+arch: x64
+
+Message: Port 3000 is already in use.
+Please close the application using this port or configure a different port before starting IETM.
+
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:3000
+    at Server.setupListenHandle [as _listen2] (node:net:2009:16)
+    at listenInCluster (node:net:2066:12)
+    at node:net:2275:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+

@@ -279,3 +279,16 @@
 [2026-08-04T06:57:11.147Z] INFO: Content static route enabled at /Content from C:\Users\dell\TOT\Content with cache disabled
 [2026-08-04T06:57:11.147Z] INFO: starting-vite | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\TOT basePath=C:\Users\dell\TOT NODE_ENV=<unset> platform=win32 arch=x64
 [2026-08-04T06:57:12.843Z] INFO: Vite middleware initialized.
+[2026-08-05T04:54:00.550Z] INFO: Logger initialized. logFile=C:\Users\dell\TOT\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-32808.log
+[2026-08-05T04:54:00.551Z] INFO: startup-begin | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\TOT basePath=C:\Users\dell\TOT NODE_ENV=<unset> platform=win32 arch=x64
+[2026-08-05T04:54:00.551Z] WARN: Content was missing. path=C:\Users\dell\TOT\Content
+[2026-08-05T04:54:00.551Z] WARN: Content/PDF was missing. path=C:\Users\dell\TOT\Content\PDF
+[2026-08-05T04:54:00.551Z] WARN: Content/XML was missing. path=C:\Users\dell\TOT\Content\XML
+[2026-08-05T04:54:00.551Z] INFO: dist found at C:\Users\dell\TOT\dist
+[2026-08-05T04:54:00.551Z] INFO: dist/index.html found at C:\Users\dell\TOT\dist\index.html
+[2026-08-05T04:54:00.551Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\TOT\config\config.json
+[2026-08-05T04:54:00.551Z] INFO: Logs found at C:\Users\dell\TOT\Logs
+[2026-08-05T04:54:00.551Z] INFO: Logs directory found at C:\Users\dell\TOT\Logs
+[2026-08-05T04:54:00.552Z] WARN: Content directory missing; /Content static route was not enabled. path=C:\Users\dell\TOT\Content
+[2026-08-05T04:54:00.552Z] INFO: starting-vite | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\TOT basePath=C:\Users\dell\TOT NODE_ENV=<unset> platform=win32 arch=x64
+[2026-08-05T04:54:03.710Z] INFO: Vite middleware initialized.

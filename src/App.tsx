@@ -873,7 +873,7 @@ export default function App() {
     // Load XML configuration mapping documents to PDF files
     const loadConfig = async () => {
       try {
-        const cfgUrl = './Content/XML/documents.xml';
+        const cfgUrl = '/XML/documents.xml';
         const resp = await fetch(cfgUrl);
         if (!resp.ok) return;
         const xmlText = await resp.text();
@@ -924,7 +924,7 @@ export default function App() {
 
     const loadHoverTexts = async () => {
       try {
-        const hoverUrl = './Content/XML/hoverTexts.xml';
+        const hoverUrl = '/XML/hoverTexts.xml';
         const resp = await fetch(hoverUrl);
         if (!resp.ok) return;
         const xmlText = await resp.text();
@@ -974,9 +974,9 @@ export default function App() {
 
     let pdfUrl = '';
     try {
-      pdfUrl = `./Content/PDFs/${encodeURIComponent(file)}`;
+      pdfUrl = `/PDFs/${encodeURIComponent(file)}`;
     } catch (e) {
-      pdfUrl = `./Content/PDFs/${file}`;
+      pdfUrl = `/PDFs/${file}`;
     }
 
     if (pdfPagesMap[activeManualId]) return;
