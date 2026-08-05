@@ -1,0 +1,281 @@
+[2026-06-28T04:49:42.921Z] LOG: Port 3000 is in use, attempting to find an available port...
+[2026-06-28T04:49:42.923Z] LOG: Server is running in production mode on fallback port http://localhost:49692
+[2026-06-28T08:43:31.767Z] LOG: Server is running in production mode on http://localhost:3000
+[2026-06-28T09:22:37.738Z] LOG: Server is running in production mode on http://localhost:3000
+[2026-06-28T09:28:54.608Z] LOG: Server is running in production mode on http://localhost:3000
+[2026-06-28T09:44:25.957Z] LOG: Server is running in production mode on http://localhost:3000
+[2026-06-28T09:44:48.218Z] LOG: Port 3000 is in use, attempting to find an available port...
+[2026-06-28T09:44:48.220Z] LOG: Server is running in production mode on fallback port http://localhost:11540
+[2026-06-28T09:45:33.424Z] LOG: Server is running in production mode on http://localhost:3000
+[2026-06-28T09:45:54.086Z] LOG: Server is running in production mode on http://localhost:3000
+[2026-06-28T09:46:21.799Z] LOG: Server is running in production mode on http://localhost:3000
+[2026-06-28T09:46:45.755Z] LOG: Server is running in production mode on http://localhost:3000
+[2026-06-28T09:46:55.808Z] LOG: Server is running in production mode on http://localhost:3000
+[2026-06-28T09:47:37.276Z] LOG: Server is running in production mode on http://localhost:3000
+[2026-06-28T09:49:51.436Z] LOG: Server is running in production mode on http://localhost:3000
+[2026-06-28T09:50:53.089Z] LOG: Port 3000 is in use, attempting to find an available port...
+[2026-06-28T09:50:53.093Z] LOG: Server is running in production mode on fallback port http://localhost:9197
+[2026-06-28T09:51:06.404Z] LOG: Server is running in production mode on http://localhost:3000
+[2026-06-28T09:56:49.863Z] LOG: Server is running in production mode on http://localhost:3000
+[2026-06-28T09:57:01.928Z] LOG: Server is running in production mode on http://localhost:3000
+[2026-06-28T10:00:22.864Z] LOG: Server is running in production mode on http://localhost:3000
+[2026-07-05T09:06:49.222Z] INFO: Logger initialized. logFile=C:\Users\dell\IETM 28launched\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-26860.log
+[2026-07-05T09:06:49.223Z] INFO: startup-begin | execPath=C:\Users\dell\IETM 28launched\IETM.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=<unset> platform=win32 arch=x64
+[2026-07-05T09:06:49.223Z] INFO: Content found at C:\Users\dell\IETM 28launched\Content
+[2026-07-05T09:06:49.223Z] WARN: Content/PDF was missing. path=C:\Users\dell\IETM 28launched\Content\PDF
+[2026-07-05T09:06:49.223Z] INFO: Content/XML found at C:\Users\dell\IETM 28launched\Content\XML
+[2026-07-05T09:06:49.223Z] INFO: dist found at C:\Users\dell\IETM 28launched\dist
+[2026-07-05T09:06:49.223Z] INFO: dist/index.html found at C:\Users\dell\IETM 28launched\dist\index.html
+[2026-07-05T09:06:49.223Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\IETM 28launched\config\config.json
+[2026-07-05T09:06:49.223Z] INFO: Logs found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-05T09:06:49.223Z] INFO: Logs directory found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-05T09:06:49.224Z] INFO: Content static route enabled at /Content from C:\Users\dell\IETM 28launched\Content
+[2026-07-05T09:06:49.224Z] INFO: starting-vite | execPath=C:\Users\dell\IETM 28launched\IETM.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=<unset> platform=win32 arch=x64
+[2026-07-05T09:06:52.863Z] INFO: Vite middleware initialized.
+[2026-07-05T09:07:15.765Z] INFO: Logger initialized. logFile=C:\Users\dell\IETM 28launched\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-3156.log
+[2026-07-05T09:07:15.766Z] INFO: startup-begin | execPath=C:\Users\dell\IETM 28launched\IETM.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=<unset> platform=win32 arch=x64
+[2026-07-05T09:07:15.766Z] INFO: Content found at C:\Users\dell\IETM 28launched\Content
+[2026-07-05T09:07:15.766Z] WARN: Content/PDF was missing. path=C:\Users\dell\IETM 28launched\Content\PDF
+[2026-07-05T09:07:15.766Z] INFO: Content/XML found at C:\Users\dell\IETM 28launched\Content\XML
+[2026-07-05T09:07:15.766Z] INFO: dist found at C:\Users\dell\IETM 28launched\dist
+[2026-07-05T09:07:15.766Z] INFO: dist/index.html found at C:\Users\dell\IETM 28launched\dist\index.html
+[2026-07-05T09:07:15.766Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\IETM 28launched\config\config.json
+[2026-07-05T09:07:15.766Z] INFO: Logs found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-05T09:07:15.766Z] INFO: Logs directory found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-05T09:07:15.767Z] INFO: Content static route enabled at /Content from C:\Users\dell\IETM 28launched\Content
+[2026-07-05T09:07:15.767Z] INFO: starting-vite | execPath=C:\Users\dell\IETM 28launched\IETM.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=<unset> platform=win32 arch=x64
+[2026-07-05T09:07:19.048Z] INFO: Vite middleware initialized.
+[2026-07-05T11:58:43.056Z] INFO: Logger initialized. logFile=C:\Users\dell\IETM 28launched\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-31824.log
+[2026-07-05T11:58:43.057Z] INFO: startup-begin | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=<unset> platform=win32 arch=x64
+[2026-07-05T11:58:43.057Z] INFO: Content found at C:\Users\dell\IETM 28launched\Content
+[2026-07-05T11:58:43.057Z] WARN: Content/PDF was missing. path=C:\Users\dell\IETM 28launched\Content\PDF
+[2026-07-05T11:58:43.057Z] INFO: Content/XML found at C:\Users\dell\IETM 28launched\Content\XML
+[2026-07-05T11:58:43.057Z] INFO: dist found at C:\Users\dell\IETM 28launched\dist
+[2026-07-05T11:58:43.057Z] INFO: dist/index.html found at C:\Users\dell\IETM 28launched\dist\index.html
+[2026-07-05T11:58:43.057Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\IETM 28launched\config\config.json
+[2026-07-05T11:58:43.057Z] INFO: Logs found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-05T11:58:43.057Z] INFO: Logs directory found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-05T11:58:43.059Z] INFO: Content static route enabled at /Content from C:\Users\dell\IETM 28launched\Content
+[2026-07-05T11:58:43.059Z] INFO: starting-vite | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=<unset> platform=win32 arch=x64
+[2026-07-05T11:58:44.253Z] INFO: Vite middleware initialized.
+[2026-07-05T12:00:50.747Z] INFO: Logger initialized. logFile=C:\Users\dell\IETM 28launched\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-11768.log
+[2026-07-05T12:00:50.749Z] INFO: startup-begin | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=<unset> platform=win32 arch=x64
+[2026-07-05T12:00:50.749Z] INFO: Content found at C:\Users\dell\IETM 28launched\Content
+[2026-07-05T12:00:50.749Z] WARN: Content/PDF was missing. path=C:\Users\dell\IETM 28launched\Content\PDF
+[2026-07-05T12:00:50.749Z] INFO: Content/XML found at C:\Users\dell\IETM 28launched\Content\XML
+[2026-07-05T12:00:50.749Z] INFO: dist found at C:\Users\dell\IETM 28launched\dist
+[2026-07-05T12:00:50.749Z] INFO: dist/index.html found at C:\Users\dell\IETM 28launched\dist\index.html
+[2026-07-05T12:00:50.750Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\IETM 28launched\config\config.json
+[2026-07-05T12:00:50.750Z] INFO: Logs found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-05T12:00:50.750Z] INFO: Logs directory found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-05T12:00:50.752Z] INFO: Content static route enabled at /Content from C:\Users\dell\IETM 28launched\Content
+[2026-07-05T12:00:50.752Z] INFO: starting-vite | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=<unset> platform=win32 arch=x64
+[2026-07-05T12:00:51.185Z] INFO: Vite middleware initialized.
+[2026-07-05T12:01:06.587Z] INFO: Logger initialized. logFile=C:\Users\dell\IETM 28launched\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-16580.log
+[2026-07-05T12:01:06.588Z] INFO: startup-begin | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=<unset> platform=win32 arch=x64
+[2026-07-05T12:01:06.588Z] INFO: Content found at C:\Users\dell\IETM 28launched\Content
+[2026-07-05T12:01:06.588Z] WARN: Content/PDF was missing. path=C:\Users\dell\IETM 28launched\Content\PDF
+[2026-07-05T12:01:06.588Z] INFO: Content/XML found at C:\Users\dell\IETM 28launched\Content\XML
+[2026-07-05T12:01:06.588Z] INFO: dist found at C:\Users\dell\IETM 28launched\dist
+[2026-07-05T12:01:06.589Z] INFO: dist/index.html found at C:\Users\dell\IETM 28launched\dist\index.html
+[2026-07-05T12:01:06.589Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\IETM 28launched\config\config.json
+[2026-07-05T12:01:06.589Z] INFO: Logs found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-05T12:01:06.589Z] INFO: Logs directory found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-05T12:01:06.591Z] INFO: Content static route enabled at /Content from C:\Users\dell\IETM 28launched\Content
+[2026-07-05T12:01:06.591Z] INFO: starting-vite | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=<unset> platform=win32 arch=x64
+[2026-07-05T12:01:07.536Z] INFO: Vite middleware initialized.
+[2026-07-05T12:29:31.011Z] INFO: Logger initialized. logFile=C:\Users\dell\IETM 28launched\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-14928.log
+[2026-07-05T12:29:31.011Z] INFO: startup-begin | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=<unset> platform=win32 arch=x64
+[2026-07-05T12:29:31.011Z] INFO: Content found at C:\Users\dell\IETM 28launched\Content
+[2026-07-05T12:29:31.012Z] WARN: Content/PDF was missing. path=C:\Users\dell\IETM 28launched\Content\PDF
+[2026-07-05T12:29:31.012Z] INFO: Content/XML found at C:\Users\dell\IETM 28launched\Content\XML
+[2026-07-05T12:29:31.012Z] INFO: dist found at C:\Users\dell\IETM 28launched\dist
+[2026-07-05T12:29:31.012Z] INFO: dist/index.html found at C:\Users\dell\IETM 28launched\dist\index.html
+[2026-07-05T12:29:31.012Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\IETM 28launched\config\config.json
+[2026-07-05T12:29:31.012Z] INFO: Logs found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-05T12:29:31.012Z] INFO: Logs directory found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-05T12:29:31.013Z] INFO: Content static route enabled at /Content from C:\Users\dell\IETM 28launched\Content
+[2026-07-05T12:29:31.013Z] INFO: starting-vite | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=<unset> platform=win32 arch=x64
+[2026-07-05T12:29:32.098Z] INFO: Vite middleware initialized.
+[2026-07-05T12:29:32.098Z] INFO: listening | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=development platform=win32 arch=x64
+[2026-07-05T12:29:32.098Z] INFO: Server listening on http://0.0.0.0:3000 (development)
+[2026-07-05T12:29:32.099Z] INFO: Wrote C:\Users\dell\IETM 28launched\Logs\server.info
+[2026-07-05T12:47:36.807Z] WARN: Received SIGINT; shutting down gracefully.
+[2026-07-05T12:48:22.329Z] INFO: Logger initialized. logFile=C:\Users\dell\IETM 28launched\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-30988.log
+[2026-07-05T12:48:22.329Z] INFO: startup-begin | execPath=C:\Users\dell\IETM 28launched\server.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=production platform=win32 arch=x64
+[2026-07-05T12:48:22.330Z] INFO: Content found at C:\Users\dell\IETM 28launched\Content
+[2026-07-05T12:48:22.330Z] WARN: Content/PDF was missing. path=C:\Users\dell\IETM 28launched\Content\PDF
+[2026-07-05T12:48:22.330Z] INFO: Content/XML found at C:\Users\dell\IETM 28launched\Content\XML
+[2026-07-05T12:48:22.330Z] INFO: dist found at C:\Users\dell\IETM 28launched\dist
+[2026-07-05T12:48:22.330Z] INFO: dist/index.html found at C:\Users\dell\IETM 28launched\dist\index.html
+[2026-07-05T12:48:22.330Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\IETM 28launched\config\config.json
+[2026-07-05T12:48:22.330Z] INFO: Logs found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-05T12:48:22.330Z] INFO: Logs directory found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-05T12:48:22.331Z] INFO: Content static route enabled at /Content from C:\Users\dell\IETM 28launched\Content with cache disabled
+[2026-07-05T12:48:22.331Z] INFO: listening | execPath=C:\Users\dell\IETM 28launched\server.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=production platform=win32 arch=x64
+[2026-07-05T12:48:22.343Z] INFO: Server listening on http://0.0.0.0:3000 (production)
+[2026-07-05T12:48:22.343Z] INFO: Wrote C:\Users\dell\IETM 28launched\Logs\server.info
+[2026-07-08T04:28:31.138Z] INFO: Logger initialized. logFile=C:\Users\dell\IETM 28launched\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-17484.log
+[2026-07-08T04:28:31.140Z] INFO: startup-begin | execPath=C:\Users\dell\IETM 28launched\server.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=production platform=win32 arch=x64
+[2026-07-08T04:28:31.140Z] INFO: Content found at C:\Users\dell\IETM 28launched\Content
+[2026-07-08T04:28:31.140Z] WARN: Content/PDF was missing. path=C:\Users\dell\IETM 28launched\Content\PDF
+[2026-07-08T04:28:31.140Z] INFO: Content/XML found at C:\Users\dell\IETM 28launched\Content\XML
+[2026-07-08T04:28:31.140Z] INFO: dist found at C:\Users\dell\IETM 28launched\dist
+[2026-07-08T04:28:31.140Z] INFO: dist/index.html found at C:\Users\dell\IETM 28launched\dist\index.html
+[2026-07-08T04:28:31.140Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\IETM 28launched\config\config.json
+[2026-07-08T04:28:31.140Z] INFO: Logs found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-08T04:28:31.141Z] INFO: Logs directory found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-08T04:28:31.143Z] INFO: Content static route enabled at /Content from C:\Users\dell\IETM 28launched\Content with cache disabled
+[2026-07-08T04:28:31.143Z] INFO: listening | execPath=C:\Users\dell\IETM 28launched\server.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=production platform=win32 arch=x64
+[2026-07-08T04:28:31.165Z] INFO: Server listening on http://0.0.0.0:3000 (production)
+[2026-07-08T04:28:31.165Z] INFO: Wrote C:\Users\dell\IETM 28launched\Logs\server.info
+[2026-07-08T07:06:15.434Z] INFO: Logger initialized. logFile=C:\Users\dell\IETM 28launched\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-12420.log
+[2026-07-08T07:06:15.434Z] INFO: startup-begin | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=<unset> platform=win32 arch=x64
+[2026-07-08T07:06:15.434Z] INFO: Content found at C:\Users\dell\IETM 28launched\Content
+[2026-07-08T07:06:15.434Z] WARN: Content/PDF was missing. path=C:\Users\dell\IETM 28launched\Content\PDF
+[2026-07-08T07:06:15.434Z] INFO: Content/XML found at C:\Users\dell\IETM 28launched\Content\XML
+[2026-07-08T07:06:15.435Z] INFO: dist found at C:\Users\dell\IETM 28launched\dist
+[2026-07-08T07:06:15.435Z] INFO: dist/index.html found at C:\Users\dell\IETM 28launched\dist\index.html
+[2026-07-08T07:06:15.435Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\IETM 28launched\config\config.json
+[2026-07-08T07:06:15.435Z] INFO: Logs found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-08T07:06:15.435Z] INFO: Logs directory found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-08T07:06:15.436Z] INFO: Content static route enabled at /Content from C:\Users\dell\IETM 28launched\Content with cache disabled
+[2026-07-08T07:06:15.436Z] INFO: starting-vite | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=<unset> platform=win32 arch=x64
+[2026-07-08T07:06:16.429Z] INFO: Vite middleware initialized.
+[2026-07-08T07:11:53.393Z] INFO: Logger initialized. logFile=C:\Users\dell\IETM 28launched\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-4816.log
+[2026-07-08T07:11:53.394Z] INFO: startup-begin | execPath=C:\Users\dell\IETM 28launched\server.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=production platform=win32 arch=x64
+[2026-07-08T07:11:53.394Z] INFO: Content found at C:\Users\dell\IETM 28launched\Content
+[2026-07-08T07:11:53.394Z] WARN: Content/PDF was missing. path=C:\Users\dell\IETM 28launched\Content\PDF
+[2026-07-08T07:11:53.394Z] INFO: Content/XML found at C:\Users\dell\IETM 28launched\Content\XML
+[2026-07-08T07:11:53.394Z] INFO: dist found at C:\Users\dell\IETM 28launched\dist
+[2026-07-08T07:11:53.394Z] INFO: dist/index.html found at C:\Users\dell\IETM 28launched\dist\index.html
+[2026-07-08T07:11:53.394Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\IETM 28launched\config\config.json
+[2026-07-08T07:11:53.394Z] INFO: Logs found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-08T07:11:53.394Z] INFO: Logs directory found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-08T07:11:53.396Z] INFO: Content static route enabled at /Content from C:\Users\dell\IETM 28launched\Content with cache disabled
+[2026-07-08T07:11:53.396Z] INFO: listening | execPath=C:\Users\dell\IETM 28launched\server.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=production platform=win32 arch=x64
+[2026-07-08T07:11:53.411Z] INFO: Server listening on https://0.0.0.0:3000 (production)
+[2026-07-08T07:11:53.412Z] INFO: Wrote C:\Users\dell\IETM 28launched\Logs\server.info
+[2026-07-08T07:35:18.979Z] INFO: Logger initialized. logFile=C:\Users\dell\IETM 28launched\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-7528.log
+[2026-07-08T07:35:18.980Z] INFO: startup-begin | execPath=C:\Users\dell\IETM 28launched\server.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=production platform=win32 arch=x64
+[2026-07-08T07:35:18.980Z] INFO: Content found at C:\Users\dell\IETM 28launched\Content
+[2026-07-08T07:35:18.981Z] WARN: Content/PDF was missing. path=C:\Users\dell\IETM 28launched\Content\PDF
+[2026-07-08T07:35:18.981Z] INFO: Content/XML found at C:\Users\dell\IETM 28launched\Content\XML
+[2026-07-08T07:35:18.981Z] INFO: dist found at C:\Users\dell\IETM 28launched\dist
+[2026-07-08T07:35:18.981Z] INFO: dist/index.html found at C:\Users\dell\IETM 28launched\dist\index.html
+[2026-07-08T07:35:18.981Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\IETM 28launched\config\config.json
+[2026-07-08T07:35:18.981Z] INFO: Logs found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-08T07:35:18.981Z] INFO: Logs directory found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-08T07:35:18.983Z] INFO: Content static route enabled at /Content from C:\Users\dell\IETM 28launched\Content with cache disabled
+[2026-07-08T07:35:18.983Z] INFO: listening | execPath=C:\Users\dell\IETM 28launched\server.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=production platform=win32 arch=x64
+[2026-07-08T07:35:19.000Z] INFO: Server listening on https://0.0.0.0:3000 (production)
+[2026-07-08T07:35:19.001Z] INFO: Wrote C:\Users\dell\IETM 28launched\Logs\server.info
+[2026-07-08T08:15:21.334Z] INFO: Logger initialized. logFile=C:\Users\dell\IETM 28launched\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-20464.log
+[2026-07-08T08:15:21.335Z] INFO: startup-begin | execPath=C:\Users\dell\IETM 28launched\server.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=production platform=win32 arch=x64
+[2026-07-08T08:15:21.335Z] INFO: Content found at C:\Users\dell\IETM 28launched\Content
+[2026-07-08T08:15:21.335Z] WARN: Content/PDF was missing. path=C:\Users\dell\IETM 28launched\Content\PDF
+[2026-07-08T08:15:21.336Z] INFO: Content/XML found at C:\Users\dell\IETM 28launched\Content\XML
+[2026-07-08T08:15:21.336Z] INFO: dist found at C:\Users\dell\IETM 28launched\dist
+[2026-07-08T08:15:21.336Z] INFO: dist/index.html found at C:\Users\dell\IETM 28launched\dist\index.html
+[2026-07-08T08:15:21.336Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\IETM 28launched\config\config.json
+[2026-07-08T08:15:21.336Z] INFO: Logs found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-08T08:15:21.336Z] INFO: Logs directory found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-08T08:15:21.337Z] INFO: Content static route enabled at /Content from C:\Users\dell\IETM 28launched\Content with cache disabled
+[2026-07-08T08:15:21.337Z] INFO: listening | execPath=C:\Users\dell\IETM 28launched\server.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=production platform=win32 arch=x64
+[2026-07-08T08:15:21.353Z] INFO: Server listening on https://0.0.0.0:3000 (production)
+[2026-07-08T08:15:21.354Z] INFO: Wrote C:\Users\dell\IETM 28launched\Logs\server.info
+[2026-07-08T08:35:54.380Z] INFO: Logger initialized. logFile=C:\Users\dell\IETM 28launched\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-20976.log
+[2026-07-08T08:35:54.381Z] INFO: startup-begin | execPath=C:\Users\dell\IETM 28launched\server.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=production platform=win32 arch=x64
+[2026-07-08T08:35:54.381Z] INFO: Content found at C:\Users\dell\IETM 28launched\Content
+[2026-07-08T08:35:54.381Z] WARN: Content/PDF was missing. path=C:\Users\dell\IETM 28launched\Content\PDF
+[2026-07-08T08:35:54.381Z] INFO: Content/XML found at C:\Users\dell\IETM 28launched\Content\XML
+[2026-07-08T08:35:54.381Z] INFO: dist found at C:\Users\dell\IETM 28launched\dist
+[2026-07-08T08:35:54.382Z] INFO: dist/index.html found at C:\Users\dell\IETM 28launched\dist\index.html
+[2026-07-08T08:35:54.382Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\IETM 28launched\config\config.json
+[2026-07-08T08:35:54.382Z] INFO: Logs found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-08T08:35:54.382Z] INFO: Logs directory found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-08T08:35:54.383Z] INFO: Content static route enabled at /Content from C:\Users\dell\IETM 28launched\Content with cache disabled
+[2026-07-08T08:35:54.383Z] INFO: listening | execPath=C:\Users\dell\IETM 28launched\server.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=production platform=win32 arch=x64
+[2026-07-08T08:35:54.400Z] INFO: Server listening on https://0.0.0.0:3000 (production)
+[2026-07-08T08:35:54.400Z] INFO: Wrote C:\Users\dell\IETM 28launched\Logs\server.info
+[2026-07-08T08:49:52.119Z] INFO: Logger initialized. logFile=C:\Users\dell\IETM 28launched\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-16448.log
+[2026-07-08T08:49:52.120Z] INFO: startup-begin | execPath=C:\Users\dell\IETM 28launched\server.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=production platform=win32 arch=x64
+[2026-07-08T08:49:52.120Z] INFO: Content found at C:\Users\dell\IETM 28launched\Content
+[2026-07-08T08:49:52.120Z] WARN: Content/PDF was missing. path=C:\Users\dell\IETM 28launched\Content\PDF
+[2026-07-08T08:49:52.120Z] INFO: Content/XML found at C:\Users\dell\IETM 28launched\Content\XML
+[2026-07-08T08:49:52.120Z] INFO: dist found at C:\Users\dell\IETM 28launched\dist
+[2026-07-08T08:49:52.120Z] INFO: dist/index.html found at C:\Users\dell\IETM 28launched\dist\index.html
+[2026-07-08T08:49:52.121Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\IETM 28launched\config\config.json
+[2026-07-08T08:49:52.121Z] INFO: Logs found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-08T08:49:52.121Z] INFO: Logs directory found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-08T08:49:52.122Z] INFO: Content static route enabled at /Content from C:\Users\dell\IETM 28launched\Content with cache disabled
+[2026-07-08T08:49:52.122Z] INFO: listening | execPath=C:\Users\dell\IETM 28launched\server.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=production platform=win32 arch=x64
+[2026-07-08T08:49:52.138Z] INFO: Server listening on https://0.0.0.0:3000 (production)
+[2026-07-08T08:49:52.139Z] INFO: Wrote C:\Users\dell\IETM 28launched\Logs\server.info
+[2026-07-08T09:05:22.777Z] INFO: Logger initialized. logFile=C:\Users\dell\IETM 28launched\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-8868.log
+[2026-07-08T09:05:22.777Z] INFO: startup-begin | execPath=C:\Users\dell\IETM 28launched\server.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=production platform=win32 arch=x64
+[2026-07-08T09:05:22.778Z] INFO: Content found at C:\Users\dell\IETM 28launched\Content
+[2026-07-08T09:05:22.778Z] WARN: Content/PDF was missing. path=C:\Users\dell\IETM 28launched\Content\PDF
+[2026-07-08T09:05:22.778Z] INFO: Content/XML found at C:\Users\dell\IETM 28launched\Content\XML
+[2026-07-08T09:05:22.778Z] INFO: dist found at C:\Users\dell\IETM 28launched\dist
+[2026-07-08T09:05:22.778Z] INFO: dist/index.html found at C:\Users\dell\IETM 28launched\dist\index.html
+[2026-07-08T09:05:22.778Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\IETM 28launched\config\config.json
+[2026-07-08T09:05:22.778Z] INFO: Logs found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-08T09:05:22.778Z] INFO: Logs directory found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-08T09:05:22.779Z] INFO: Content static route enabled at /Content from C:\Users\dell\IETM 28launched\Content with cache disabled
+[2026-07-08T09:05:22.779Z] INFO: listening | execPath=C:\Users\dell\IETM 28launched\server.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=production platform=win32 arch=x64
+[2026-07-08T09:05:22.795Z] INFO: Server listening on https://0.0.0.0:3000 (production)
+[2026-07-08T09:05:22.796Z] INFO: Wrote C:\Users\dell\IETM 28launched\Logs\server.info
+[2026-07-08T12:33:35.156Z] INFO: Logger initialized. logFile=C:\Users\dell\IETM 28launched\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-26388.log
+[2026-07-08T12:33:35.161Z] INFO: startup-begin | execPath=C:\Users\dell\IETM 28launched\server.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=production platform=win32 arch=x64
+[2026-07-08T12:33:35.161Z] INFO: Content found at C:\Users\dell\IETM 28launched\Content
+[2026-07-08T12:33:35.161Z] WARN: Content/PDF was missing. path=C:\Users\dell\IETM 28launched\Content\PDF
+[2026-07-08T12:33:35.162Z] INFO: Content/XML found at C:\Users\dell\IETM 28launched\Content\XML
+[2026-07-08T12:33:35.162Z] INFO: dist found at C:\Users\dell\IETM 28launched\dist
+[2026-07-08T12:33:35.162Z] INFO: dist/index.html found at C:\Users\dell\IETM 28launched\dist\index.html
+[2026-07-08T12:33:35.162Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\IETM 28launched\config\config.json
+[2026-07-08T12:33:35.162Z] INFO: Logs found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-08T12:33:35.162Z] INFO: Logs directory found at C:\Users\dell\IETM 28launched\Logs
+[2026-07-08T12:33:35.164Z] INFO: Content static route enabled at /Content from C:\Users\dell\IETM 28launched\Content with cache disabled
+[2026-07-08T12:33:35.164Z] INFO: listening | execPath=C:\Users\dell\IETM 28launched\server.exe cwd=C:\Users\dell\IETM 28launched basePath=C:\Users\dell\IETM 28launched NODE_ENV=production platform=win32 arch=x64
+[2026-07-08T12:33:35.201Z] INFO: Server listening on https://0.0.0.0:3000 (production)
+[2026-07-08T12:33:35.202Z] INFO: Wrote C:\Users\dell\IETM 28launched\Logs\server.info
+[2026-08-04T06:21:52.349Z] INFO: Logger initialized. logFile=C:\Users\dell\TOT\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-10728.log
+[2026-08-04T06:21:52.349Z] INFO: startup-begin | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\TOT basePath=C:\Users\dell\TOT NODE_ENV=<unset> platform=win32 arch=x64
+[2026-08-04T06:21:52.350Z] INFO: Content found at C:\Users\dell\TOT\Content
+[2026-08-04T06:21:52.350Z] WARN: Content/PDF was missing. path=C:\Users\dell\TOT\Content\PDF
+[2026-08-04T06:21:52.350Z] INFO: Content/XML found at C:\Users\dell\TOT\Content\XML
+[2026-08-04T06:21:52.350Z] INFO: dist found at C:\Users\dell\TOT\dist
+[2026-08-04T06:21:52.350Z] INFO: dist/index.html found at C:\Users\dell\TOT\dist\index.html
+[2026-08-04T06:21:52.350Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\TOT\config\config.json
+[2026-08-04T06:21:52.350Z] INFO: Logs found at C:\Users\dell\TOT\Logs
+[2026-08-04T06:21:52.350Z] INFO: Logs directory found at C:\Users\dell\TOT\Logs
+[2026-08-04T06:21:52.351Z] INFO: Content static route enabled at /Content from C:\Users\dell\TOT\Content with cache disabled
+[2026-08-04T06:21:52.351Z] INFO: starting-vite | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\TOT basePath=C:\Users\dell\TOT NODE_ENV=<unset> platform=win32 arch=x64
+[2026-08-04T06:21:54.270Z] INFO: Vite middleware initialized.
+[2026-08-04T06:23:18.568Z] INFO: Logger initialized. logFile=C:\Users\dell\TOT\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-25496.log
+[2026-08-04T06:23:18.569Z] INFO: startup-begin | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\TOT basePath=C:\Users\dell\TOT NODE_ENV=<unset> platform=win32 arch=x64
+[2026-08-04T06:23:18.569Z] INFO: Content found at C:\Users\dell\TOT\Content
+[2026-08-04T06:23:18.569Z] WARN: Content/PDF was missing. path=C:\Users\dell\TOT\Content\PDF
+[2026-08-04T06:23:18.570Z] INFO: Content/XML found at C:\Users\dell\TOT\Content\XML
+[2026-08-04T06:23:18.570Z] INFO: dist found at C:\Users\dell\TOT\dist
+[2026-08-04T06:23:18.570Z] INFO: dist/index.html found at C:\Users\dell\TOT\dist\index.html
+[2026-08-04T06:23:18.570Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\TOT\config\config.json
+[2026-08-04T06:23:18.570Z] INFO: Logs found at C:\Users\dell\TOT\Logs
+[2026-08-04T06:23:18.570Z] INFO: Logs directory found at C:\Users\dell\TOT\Logs
+[2026-08-04T06:23:18.571Z] INFO: Content static route enabled at /Content from C:\Users\dell\TOT\Content with cache disabled
+[2026-08-04T06:23:18.571Z] INFO: starting-vite | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\TOT basePath=C:\Users\dell\TOT NODE_ENV=<unset> platform=win32 arch=x64
+[2026-08-04T06:23:19.867Z] INFO: Vite middleware initialized.
+[2026-08-04T06:57:11.143Z] INFO: Logger initialized. logFile=C:\Users\dell\TOT\Logs\server.log; tempLog=C:\Users\dell\AppData\Local\Temp\ietm-server-31740.log
+[2026-08-04T06:57:11.144Z] INFO: startup-begin | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\TOT basePath=C:\Users\dell\TOT NODE_ENV=<unset> platform=win32 arch=x64
+[2026-08-04T06:57:11.144Z] INFO: Content found at C:\Users\dell\TOT\Content
+[2026-08-04T06:57:11.144Z] WARN: Content/PDF was missing. path=C:\Users\dell\TOT\Content\PDF
+[2026-08-04T06:57:11.144Z] INFO: Content/XML found at C:\Users\dell\TOT\Content\XML
+[2026-08-04T06:57:11.144Z] INFO: dist found at C:\Users\dell\TOT\dist
+[2026-08-04T06:57:11.144Z] INFO: dist/index.html found at C:\Users\dell\TOT\dist\index.html
+[2026-08-04T06:57:11.144Z] WARN: config/config.json was not found; continuing without it. path=C:\Users\dell\TOT\config\config.json
+[2026-08-04T06:57:11.144Z] INFO: Logs found at C:\Users\dell\TOT\Logs
+[2026-08-04T06:57:11.144Z] INFO: Logs directory found at C:\Users\dell\TOT\Logs
+[2026-08-04T06:57:11.147Z] INFO: Content static route enabled at /Content from C:\Users\dell\TOT\Content with cache disabled
+[2026-08-04T06:57:11.147Z] INFO: starting-vite | execPath=C:\Program Files\nodejs\node.exe cwd=C:\Users\dell\TOT basePath=C:\Users\dell\TOT NODE_ENV=<unset> platform=win32 arch=x64
+[2026-08-04T06:57:12.843Z] INFO: Vite middleware initialized.

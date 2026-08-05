@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documents>
+  <!-- Top-level sections. Each section may have either a `file` attribute (single PDF)
+       or contain `subdocument` children for multiple PDFs. The `id` is the internal
+       docId and should be unique. Filenames are relative to src/assets/pdf/ -->
+
+  <section id="compliance-matrix" title="Compliance Matrix" file="iVIS - Complience Matrix.pdf" />
+  <section id="draft-atp" title="Draft Acceptance Test Procedure" file="iVIS - Draft Acceptance Test Procedure (ATP).pdf" />
+  <section id="technical-manuals" title="Technical Manuals">
+    <subdocument id="tech-1-1" title="Technical Manual Part 1 - Volume 1" file="iVIS - Technical Manual (TM) Part I - Volume 1.pdf" />
+    <subdocument id="tech-1-2" title="Technical Manual Part 1 - Volume 2" file="iVIS - Technical Manual (TM) Part I - Volumn 2.pdf" />
+    <subdocument id="tech-3" title="Technical Manual Part 3" file="iVIS - Technical Manual (TM) Part III.pdf" />
+    <subdocument id="tech-4-1" title="Technical Manual Part 4 - Volume 1" file="iVIS - Technical Manual (TM) Part IV - Volume 1.pdf" />
+    <subdocument id="tech-4-2" title="Technical Manual Part 4 - Volume 2" file="iVIS - Technical Manual (TM) Part IV - Volume 2.pdf" />
+  </section>
+  <section id="user-handbook" title="User Handbook" file="iVIS - User Handbook (UHB).pdf" />
+</documents>

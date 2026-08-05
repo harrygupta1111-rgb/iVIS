@@ -1,0 +1,171 @@
+Timestamp: 2026-07-05T09:06:52.864Z
+Stage: listening
+Origin: listen
+execPath: C:\Users\dell\IETM 28launched\IETM.exe
+cwd: C:\Users\dell\IETM 28launched
+basePath: C:\Users\dell\IETM 28launched
+NODE_ENV: development
+platform: win32
+arch: x64
+
+Message: Port 3000 is already in use.
+Please close the application using this port or configure a different port before starting IETM.
+
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:3000
+    at Server.setupListenHandle [as _listen2] (node:net:2009:16)
+    at listenInCluster (node:net:2066:12)
+    at node:net:2275:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+
+Timestamp: 2026-07-05T09:07:19.049Z
+Stage: listening
+Origin: listen
+execPath: C:\Users\dell\IETM 28launched\IETM.exe
+cwd: C:\Users\dell\IETM 28launched
+basePath: C:\Users\dell\IETM 28launched
+NODE_ENV: development
+platform: win32
+arch: x64
+
+Message: Port 3000 is already in use.
+Please close the application using this port or configure a different port before starting IETM.
+
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:3000
+    at Server.setupListenHandle [as _listen2] (node:net:2009:16)
+    at listenInCluster (node:net:2066:12)
+    at node:net:2275:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+
+Timestamp: 2026-07-05T11:58:44.253Z
+Stage: listening
+Origin: listen
+execPath: C:\Program Files\nodejs\node.exe
+cwd: C:\Users\dell\IETM 28launched
+basePath: C:\Users\dell\IETM 28launched
+NODE_ENV: development
+platform: win32
+arch: x64
+
+Message: Port 3000 is already in use.
+Please close the application using this port or configure a different port before starting IETM.
+
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:3000
+    at Server.setupListenHandle [as _listen2] (node:net:2009:16)
+    at listenInCluster (node:net:2066:12)
+    at node:net:2275:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+
+Timestamp: 2026-07-05T12:00:51.186Z
+Stage: listening
+Origin: listen
+execPath: C:\Program Files\nodejs\node.exe
+cwd: C:\Users\dell\IETM 28launched
+basePath: C:\Users\dell\IETM 28launched
+NODE_ENV: development
+platform: win32
+arch: x64
+
+Message: Port 3000 is already in use.
+Please close the application using this port or configure a different port before starting IETM.
+
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:3000
+    at Server.setupListenHandle [as _listen2] (node:net:2009:16)
+    at listenInCluster (node:net:2066:12)
+    at node:net:2275:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+
+Timestamp: 2026-07-05T12:01:07.538Z
+Stage: listening
+Origin: listen
+execPath: C:\Program Files\nodejs\node.exe
+cwd: C:\Users\dell\IETM 28launched
+basePath: C:\Users\dell\IETM 28launched
+NODE_ENV: development
+platform: win32
+arch: x64
+
+Message: Port 3000 is already in use.
+Please close the application using this port or configure a different port before starting IETM.
+
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:3000
+    at Server.setupListenHandle [as _listen2] (node:net:2009:16)
+    at listenInCluster (node:net:2066:12)
+    at node:net:2275:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+
+Timestamp: 2026-07-08T07:06:16.431Z
+Stage: listening
+Origin: listen
+execPath: C:\Program Files\nodejs\node.exe
+cwd: C:\Users\dell\IETM 28launched
+basePath: C:\Users\dell\IETM 28launched
+NODE_ENV: development
+platform: win32
+arch: x64
+
+Message: Port 3000 is already in use.
+Please close the application using this port or configure a different port before starting IETM.
+
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:3000
+    at Server.setupListenHandle [as _listen2] (node:net:2009:16)
+    at listenInCluster (node:net:2066:12)
+    at node:net:2275:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+
+Timestamp: 2026-08-04T06:21:54.273Z
+Stage: listening
+Origin: listen
+execPath: C:\Program Files\nodejs\node.exe
+cwd: C:\Users\dell\TOT
+basePath: C:\Users\dell\TOT
+NODE_ENV: development
+platform: win32
+arch: x64
+
+Message: Port 3000 is already in use.
+Please close the application using this port or configure a different port before starting IETM.
+
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:3000
+    at Server.setupListenHandle [as _listen2] (node:net:2009:16)
+    at listenInCluster (node:net:2066:12)
+    at node:net:2275:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+
+Timestamp: 2026-08-04T06:23:19.872Z
+Stage: listening
+Origin: listen
+execPath: C:\Program Files\nodejs\node.exe
+cwd: C:\Users\dell\TOT
+basePath: C:\Users\dell\TOT
+NODE_ENV: development
+platform: win32
+arch: x64
+
+Message: Port 3000 is already in use.
+Please close the application using this port or configure a different port before starting IETM.
+
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:3000
+    at Server.setupListenHandle [as _listen2] (node:net:2009:16)
+    at listenInCluster (node:net:2066:12)
+    at node:net:2275:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+
+Timestamp: 2026-08-04T06:57:12.847Z
+Stage: listening
+Origin: listen
+execPath: C:\Program Files\nodejs\node.exe
+cwd: C:\Users\dell\TOT
+basePath: C:\Users\dell\TOT
+NODE_ENV: development
+platform: win32
+arch: x64
+
+Message: Port 3000 is already in use.
+Please close the application using this port or configure a different port before starting IETM.
+
+Stack: Error: listen EADDRINUSE: address already in use 0.0.0.0:3000
+    at Server.setupListenHandle [as _listen2] (node:net:2009:16)
+    at listenInCluster (node:net:2066:12)
+    at node:net:2275:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+

@@ -1,0 +1,269 @@
+[2026-06-28 15:26:49.729] =======================================================
+[2026-06-28 15:26:49.729] IETM Launcher started.
+[2026-06-28 15:26:49.729] Base path : C:\Users\dell\IETM\
+[2026-06-28 15:26:49.729] No valid server.info found. Proceeding to cold start.
+[2026-06-28 15:26:49.729] Launch watermark: 2026-06-28T09:56:49.7298474Z
+[2026-06-28 15:26:49.729] Starting server.exe...
+[2026-06-28 15:26:49.745] server.exe launched. PID=15740
+[2026-06-28 15:26:49.747] Entering ready-wait loop (timeout=30000 ms).
+[2026-06-28 15:26:50.016] Port detected/changed: -1 -> 3000. Switching health checks.
+[2026-06-28 15:26:50.046] Server alive on port 3000 after 250 ms.
+[2026-06-28 15:26:50.047] Opening browser: http://localhost:3000
+[2026-06-28 15:26:50.115] Browser opened. Launcher exiting.
+[2026-06-28 15:27:00.711] =======================================================
+[2026-06-28 15:27:00.711] IETM Launcher started.
+[2026-06-28 15:27:00.711] Base path : C:\Users\dell\IETM\
+[2026-06-28 15:27:00.711] server.info present. Testing port 3000 for a live server...
+[2026-06-28 15:27:01.230] Port 3000 is not responding. Proceeding to cold start.
+[2026-06-28 15:27:01.742] Launch watermark: 2026-06-28T09:57:01.7425770Z
+[2026-06-28 15:27:01.743] Deleted stale server.info.
+[2026-06-28 15:27:01.743] Starting server.exe...
+[2026-06-28 15:27:01.754] server.exe launched. PID=2280
+[2026-06-28 15:27:01.756] Entering ready-wait loop (timeout=30000 ms).
+[2026-06-28 15:27:02.010] Port detected/changed: -1 -> 3000. Switching health checks.
+[2026-06-28 15:27:02.012] Server alive on port 3000 after 250 ms.
+[2026-06-28 15:27:02.012] Opening browser: http://localhost:3000
+[2026-06-28 15:27:02.100] Browser opened. Launcher exiting.
+[2026-06-28 15:30:21.203] =======================================================
+[2026-06-28 15:30:21.203] IETM Launcher started.
+[2026-06-28 15:30:21.203] Base path : C:\Users\dell\IETM\
+[2026-06-28 15:30:21.205] server.info present. Testing port 3000 for a live server...
+[2026-06-28 15:30:21.726] Port 3000 is not responding. Proceeding to cold start.
+[2026-06-28 15:30:22.237] Launch watermark: 2026-06-28T10:00:22.2374444Z
+[2026-06-28 15:30:22.238] Deleted stale server.info.
+[2026-06-28 15:30:22.238] Starting server.exe...
+[2026-06-28 15:30:22.677] server.exe launched. PID=23620
+[2026-06-28 15:30:22.677] Entering ready-wait loop (timeout=30000 ms).
+[2026-06-28 15:30:22.931] Port detected/changed: -1 -> 3000. Switching health checks.
+[2026-06-28 15:30:22.931] Server alive on port 3000 after 250 ms.
+[2026-06-28 15:30:22.931] Opening browser: http://localhost:3000
+[2026-06-28 15:30:23.027] Browser opened. Launcher exiting.
+[2026-07-05 14:51:50.381] =======================================================
+[2026-07-05 14:51:50.385] IETM Launcher started.
+[2026-07-05 14:51:50.385] Base path : C:\Users\dell\IETM 28launched\
+[2026-07-05 14:51:50.388] server.info present. Testing port 3000 for a live server...
+[2026-07-05 14:51:50.430] Existing server confirmed alive on port 3000. Opening browser.
+[2026-07-05 14:51:50.515] Browser opened. Launcher exiting (fast path).
+[2026-07-05 14:56:56.785] =======================================================
+[2026-07-05 14:56:56.795] IETM Launcher started.
+[2026-07-05 14:56:56.795] Base path : C:\Users\dell\IETM 28launched\
+[2026-07-05 14:56:56.795] server.info present. Testing port 3000 for a live server...
+[2026-07-05 14:56:56.805] Existing server confirmed alive on port 3000. Opening browser.
+[2026-07-05 14:56:56.865] Browser opened. Launcher exiting (fast path).
+[2026-07-05 16:50:30.212] =======================================================
+[2026-07-05 16:50:30.212] IETM Launcher started.
+[2026-07-05 16:50:30.212] Base path : C:\Users\dell\IETM 28launched\
+[2026-07-05 16:50:30.212] server.info present. Testing port 3000 for a live server...
+[2026-07-05 16:50:30.228] Existing server confirmed alive on port 3000. Opening browser.
+[2026-07-05 16:50:30.308] Browser opened. Launcher exiting (fast path).
+[2026-07-05 17:18:15.953] =======================================================
+[2026-07-05 17:18:15.959] IETM Launcher started.
+[2026-07-05 17:18:15.959] Base path : C:\Users\dell\IETM 28launched\
+[2026-07-05 17:18:15.960] server.info present. Testing port 3000 for a live server...
+[2026-07-05 17:18:15.973] Existing server confirmed alive on port 3000. Opening browser.
+[2026-07-05 17:18:16.036] Browser opened. Launcher exiting (fast path).
+[2026-07-05 17:45:30.621] =======================================================
+[2026-07-05 17:45:30.621] IETM Launcher started.
+[2026-07-05 17:45:30.621] Base path : C:\Users\dell\IETM 28launched\
+[2026-07-05 17:45:30.621] server.info present. Testing port 3000 for a live server...
+[2026-07-05 17:45:30.642] Existing server confirmed alive on port 3000. Opening browser.
+[2026-07-05 17:45:30.707] Browser opened. Launcher exiting (fast path).
+[2026-07-05 18:18:20.774] =======================================================
+[2026-07-05 18:18:20.774] IETM Launcher started.
+[2026-07-05 18:18:20.774] Base path : C:\Users\dell\IETM 28launched\
+[2026-07-05 18:18:20.779] server.info present. Testing port 3000 for a live server...
+[2026-07-05 18:18:21.305] Port 3000 is not responding. Proceeding to cold start.
+[2026-07-05 18:18:21.819] Launch watermark: 2026-07-05T12:48:21.8193008Z
+[2026-07-05 18:18:21.819] Deleted stale server.info.
+[2026-07-05 18:18:21.819] Starting server.exe...
+[2026-07-05 18:18:22.249] server.exe launched. PID=30988
+[2026-07-05 18:18:22.249] Entering ready-wait loop (timeout=30000 ms).
+[2026-07-05 18:18:22.517] Port detected/changed: -1 -> 3000. Switching health checks.
+[2026-07-05 18:18:22.518] Server alive on port 3000 after 250 ms.
+[2026-07-05 18:18:22.518] Opening browser: http://localhost:3000
+[2026-07-05 18:18:22.568] Browser opened. Launcher exiting.
+[2026-07-08 09:58:20.805] =======================================================
+[2026-07-08 09:58:20.805] IETM Launcher started.
+[2026-07-08 09:58:20.805] Base path : C:\Users\dell\IETM 28launched\
+[2026-07-08 09:58:20.820] server.info present. Testing port 3000 for a live server...
+[2026-07-08 09:58:21.346] Port 3000 is not responding. Proceeding to cold start.
+[2026-07-08 09:58:21.858] Launch watermark: 2026-07-08T04:28:21.8583663Z
+[2026-07-08 09:58:21.858] Deleted stale server.info.
+[2026-07-08 09:58:21.858] Checking Windows Firewall rules via COM reflection for C:\Users\dell\IETM 28launched\server.exe
+[2026-07-08 09:58:21.953] Firewall rule not found or incomplete. Requesting elevation to add rule.
+[2026-07-08 09:58:27.355] Successfully reset and added firewall rule.
+[2026-07-08 09:58:27.355] Starting server.exe...
+[2026-07-08 09:58:30.983] server.exe launched. PID=17484
+[2026-07-08 09:58:30.987] Entering ready-wait loop (timeout=30000 ms).
+[2026-07-08 09:58:31.250] Port detected/changed: -1 -> 3000. Switching health checks.
+[2026-07-08 09:58:31.250] Server alive on port 3000 after 250 ms.
+[2026-07-08 09:58:31.250] Opening browser: http://localhost:3000
+[2026-07-08 09:58:31.380] Browser opened. Launcher exiting.
+[2026-07-08 12:41:51.603] =======================================================
+[2026-07-08 12:41:51.603] IETM Launcher started.
+[2026-07-08 12:41:51.603] Base path : C:\Users\dell\IETM 28launched\
+[2026-07-08 12:41:51.603] server.info present. Testing port 3000 for a live server...
+[2026-07-08 12:41:52.130] Port 3000 is not responding. Proceeding to cold start.
+[2026-07-08 12:41:52.641] Launch watermark: 2026-07-08T07:11:52.6411569Z
+[2026-07-08 12:41:52.642] Deleted stale server.info.
+[2026-07-08 12:41:52.644] Checking Windows Firewall rules via COM reflection for C:\Users\dell\IETM 28launched\server.exe
+[2026-07-08 12:41:52.704] Correct firewall rule already exists and no blocking rules found. No elevation required.
+[2026-07-08 12:41:52.704] Starting server.exe...
+[2026-07-08 12:41:53.227] server.exe launched. PID=4816
+[2026-07-08 12:41:53.227] Entering ready-wait loop (timeout=30000 ms).
+[2026-07-08 12:41:53.487] Port detected/changed: -1 -> 3000. Switching health checks.
+[2026-07-08 12:41:53.487] Server alive on port 3000 after 250 ms.
+[2026-07-08 12:41:53.487] Opening browser: https://localhost:3000
+[2026-07-08 12:41:53.603] Browser opened. Launcher exiting.
+[2026-07-08 13:05:04.384] =======================================================
+[2026-07-08 13:05:04.384] IETM Launcher started.
+[2026-07-08 13:05:04.384] Base path : C:\Users\dell\IETM 28launched\
+[2026-07-08 13:05:04.384] server.info present. Testing port 3000 for a live server...
+[2026-07-08 13:05:04.913] Port 3000 is not responding. Proceeding to cold start.
+[2026-07-08 13:05:05.418] Launch watermark: 2026-07-08T07:35:05.4189996Z
+[2026-07-08 13:05:05.418] Deleted stale server.info.
+[2026-07-08 13:05:05.421] Certificate not found. Generating new self-signed certificate for the server...
+[2026-07-08 13:05:07.050] Certificate generated successfully.
+[2026-07-08 13:05:16.046] Checking Windows Firewall rules via COM reflection for C:\Users\dell\IETM 28launched\server.exe
+[2026-07-08 13:05:16.147] Correct firewall rule already exists and no blocking rules found. No elevation required.
+[2026-07-08 13:05:16.147] Starting server.exe...
+[2026-07-08 13:05:18.856] server.exe launched. PID=7528
+[2026-07-08 13:05:18.856] Entering ready-wait loop (timeout=30000 ms).
+[2026-07-08 13:05:19.127] Port detected/changed: -1 -> 3000. Switching health checks.
+[2026-07-08 13:05:19.127] Server alive on port 3000 after 250 ms.
+[2026-07-08 13:05:19.127] Opening browser: https://localhost:3000
+[2026-07-08 13:05:19.302] Browser opened. Launcher exiting.
+[2026-07-08 13:06:46.440] =======================================================
+[2026-07-08 13:06:46.440] IETM Launcher started.
+[2026-07-08 13:06:46.440] Base path : C:\Users\dell\IETM 28launched\
+[2026-07-08 13:06:46.440] server.info present. Testing port 3000 for a live server...
+[2026-07-08 13:06:46.465] Existing server confirmed alive on port 3000. Opening browser.
+[2026-07-08 13:06:46.501] Browser opened. Launcher exiting (fast path).
+[2026-07-08 13:45:11.996] =======================================================
+[2026-07-08 13:45:11.997] IETM Launcher started.
+[2026-07-08 13:45:11.997] Base path : C:\Users\dell\IETM 28launched\
+[2026-07-08 13:45:12.004] server.info present. Testing port 3000 for a live server...
+[2026-07-08 13:45:12.524] Port 3000 is not responding. Proceeding to cold start.
+[2026-07-08 13:45:13.025] Launch watermark: 2026-07-08T08:15:13.0255746Z
+[2026-07-08 13:45:13.025] Deleted stale server.info.
+[2026-07-08 13:45:13.028] Certificates not found. Generating Root CA and Server Certificate...
+[2026-07-08 13:45:15.357] Root CA and Server Certificate generated successfully.
+[2026-07-08 13:45:15.357] Deployment README written to C:\Users\dell\IETM 28launched\IETM_Deployment_README.txt
+[2026-07-08 13:45:20.174] Checking Windows Firewall rules via COM reflection for C:\Users\dell\IETM 28launched\server.exe
+[2026-07-08 13:45:20.249] Correct firewall rule already exists and no blocking rules found. No elevation required.
+[2026-07-08 13:45:20.249] Starting server.exe...
+[2026-07-08 13:45:21.195] server.exe launched. PID=20464
+[2026-07-08 13:45:21.198] Entering ready-wait loop (timeout=30000 ms).
+[2026-07-08 13:45:21.450] Port detected/changed: -1 -> 3000. Switching health checks.
+[2026-07-08 13:45:21.452] Server alive on port 3000 after 250 ms.
+[2026-07-08 13:45:24.135] Hostname 'RFT1001-IETM' did not resolve. Falling back to LAN IP.
+[2026-07-08 13:45:24.147] Using LAN IP fallback: 192.168.1.9
+[2026-07-08 13:45:24.147] Opening browser: https://192.168.1.9:3000
+[2026-07-08 13:45:24.249] Browser opened. Launcher exiting.
+[2026-07-08 13:47:55.087] =======================================================
+[2026-07-08 13:47:55.088] IETM Launcher started.
+[2026-07-08 13:47:55.088] Base path : C:\Users\dell\IETM 28launched\
+[2026-07-08 13:47:55.088] server.info present. Testing port 3000 for a live server...
+[2026-07-08 13:47:55.103] Existing server confirmed alive on port 3000. Opening browser.
+[2026-07-08 13:47:57.767] Hostname 'RFT1001-IETM' did not resolve. Falling back to LAN IP.
+[2026-07-08 13:47:57.770] Using LAN IP fallback: 192.168.1.9
+[2026-07-08 13:47:57.805] Browser opened. Launcher exiting (fast path).
+[2026-07-08 14:05:49.451] =======================================================
+[2026-07-08 14:05:49.452] IETM Launcher started.
+[2026-07-08 14:05:49.452] Base path : C:\Users\dell\IETM 28launched\
+[2026-07-08 14:05:49.454] server.info present. Testing port 3000 for a live server...
+[2026-07-08 14:05:49.972] Port 3000 is not responding. Proceeding to cold start.
+[2026-07-08 14:05:50.474] Launch watermark: 2026-07-08T08:35:50.4737216Z
+[2026-07-08 14:05:50.474] Deleted stale server.info.
+[2026-07-08 14:05:50.477] Certificate already exists at C:\Users\dell\IETM 28launched\certificates\server.pfx. Reusing.
+[2026-07-08 14:05:50.491] EnsureHostsEntry: LAN IP = 192.168.1.9
+[2026-07-08 14:05:50.491] EnsureHostsEntry: Adding new hosts entry -> 192.168.1.9 RFT1001-IETM
+[2026-07-08 14:05:53.628] EnsureHostsEntry: Hosts file updated successfully.
+[2026-07-08 14:05:53.631] Checking Windows Firewall rules via COM reflection for C:\Users\dell\IETM 28launched\server.exe
+[2026-07-08 14:05:53.674] Correct firewall rule already exists and no blocking rules found. No elevation required.
+[2026-07-08 14:05:53.674] Starting server.exe...
+[2026-07-08 14:05:54.242] server.exe launched. PID=20976
+[2026-07-08 14:05:54.244] Entering ready-wait loop (timeout=30000 ms).
+[2026-07-08 14:05:54.495] Port detected/changed: -1 -> 3000. Switching health checks.
+[2026-07-08 14:05:54.499] Server alive on port 3000 after 250 ms.
+[2026-07-08 14:05:54.500] Hostname 'RFT1001-IETM' resolved. Using hostname URL.
+[2026-07-08 14:05:54.500] Opening browser: https://RFT1001-IETM:3000
+[2026-07-08 14:05:54.538] Browser opened. Launcher exiting.
+[2026-07-08 14:19:50.314] =======================================================
+[2026-07-08 14:19:50.317] IETM Launcher started.
+[2026-07-08 14:19:50.317] Base path : C:\Users\dell\IETM 28launched\
+[2026-07-08 14:19:50.318] server.info present. Testing port 3000 for a live server...
+[2026-07-08 14:19:50.833] Port 3000 is not responding. Proceeding to cold start.
+[2026-07-08 14:19:51.337] Launch watermark: 2026-07-08T08:49:51.3374677Z
+[2026-07-08 14:19:51.337] Deleted stale server.info.
+[2026-07-08 14:19:51.340] Certificate already exists at C:\Users\dell\IETM 28launched\certificates\server.pfx. Reusing.
+[2026-07-08 14:19:51.342] Checking Windows Firewall rules via COM reflection for C:\Users\dell\IETM 28launched\server.exe
+[2026-07-08 14:19:51.372] Correct firewall rule already exists and no blocking rules found. No elevation required.
+[2026-07-08 14:19:51.372] Starting server.exe...
+[2026-07-08 14:19:51.989] server.exe launched. PID=16448
+[2026-07-08 14:19:51.990] Entering ready-wait loop (timeout=30000 ms).
+[2026-07-08 14:19:52.242] Port detected/changed: -1 -> 3000. Switching health checks.
+[2026-07-08 14:19:52.245] Server alive on port 3000 after 250 ms.
+[2026-07-08 14:19:52.253] Opening browser at LAN IP: 192.168.1.9
+[2026-07-08 14:19:52.253] Opening browser: https://192.168.1.9:3000
+[2026-07-08 14:19:52.295] Browser opened. Launcher exiting.
+[2026-07-08 14:24:31.973] =======================================================
+[2026-07-08 14:24:31.973] IETM Launcher started.
+[2026-07-08 14:24:31.973] Base path : C:\Users\dell\IETM 28launched\
+[2026-07-08 14:24:31.976] server.info present. Testing port 3000 for a live server...
+[2026-07-08 14:24:31.988] Existing server confirmed alive on port 3000. Opening browser.
+[2026-07-08 14:24:31.992] Opening browser at LAN IP: 192.168.1.9
+[2026-07-08 14:24:32.024] Browser opened. Launcher exiting (fast path).
+[2026-07-08 14:29:43.906] =======================================================
+[2026-07-08 14:29:43.906] IETM Launcher started.
+[2026-07-08 14:29:43.906] Base path : C:\Users\dell\IETM 28launched\
+[2026-07-08 14:29:43.907] server.info present. Testing port 3000 for a live server...
+[2026-07-08 14:29:43.920] Existing server confirmed alive on port 3000. Opening browser.
+[2026-07-08 14:29:43.923] Opening browser at LAN IP: 192.168.1.9
+[2026-07-08 14:29:43.954] Browser opened. Launcher exiting (fast path).
+[2026-07-08 14:35:17.577] =======================================================
+[2026-07-08 14:35:17.580] IETM Launcher started.
+[2026-07-08 14:35:17.580] Base path : C:\Users\dell\IETM 28launched\
+[2026-07-08 14:35:17.584] server.info present. Testing port 3000 for a live server...
+[2026-07-08 14:35:18.111] Port 3000 is not responding. Proceeding to cold start.
+[2026-07-08 14:35:18.614] Launch watermark: 2026-07-08T09:05:18.6146115Z
+[2026-07-08 14:35:18.614] Deleted stale server.info.
+[2026-07-08 14:35:18.617] IETM_Client_Trust.cer missing. Exporting from existing Root CA...
+[2026-07-08 14:35:19.245] IETM_Client_Trust.cer exported successfully.
+[2026-07-08 14:35:19.245] README_HTTPS_SETUP.txt missing. Generating...
+[2026-07-08 14:35:19.246] README_HTTPS_SETUP.txt written to C:\Users\dell\IETM 28launched\README_HTTPS_SETUP.txt
+[2026-07-08 14:35:21.591] Checking Windows Firewall rules via COM reflection for C:\Users\dell\IETM 28launched\server.exe
+[2026-07-08 14:35:21.675] Correct firewall rule already exists and no blocking rules found. No elevation required.
+[2026-07-08 14:35:21.677] Starting server.exe...
+[2026-07-08 14:35:22.662] server.exe launched. PID=8868
+[2026-07-08 14:35:22.664] Entering ready-wait loop (timeout=30000 ms).
+[2026-07-08 14:35:22.919] Port detected/changed: -1 -> 3000. Switching health checks.
+[2026-07-08 14:35:22.929] Server alive on port 3000 after 250 ms.
+[2026-07-08 14:35:22.945] Opening browser at LAN IP: 192.168.1.9
+[2026-07-08 14:35:22.945] Opening browser: https://192.168.1.9:3000
+[2026-07-08 14:35:23.052] Browser opened. Launcher exiting.
+[2026-07-08 18:03:33.752] =======================================================
+[2026-07-08 18:03:33.752] IETM Launcher started.
+[2026-07-08 18:03:33.752] Base path : C:\Users\dell\IETM 28launched\
+[2026-07-08 18:03:33.761] server.info present. Testing port 3000 for a live server...
+[2026-07-08 18:03:34.298] Port 3000 is not responding. Proceeding to cold start.
+[2026-07-08 18:03:34.807] Launch watermark: 2026-07-08T12:33:34.8078506Z
+[2026-07-08 18:03:34.810] Deleted stale server.info.
+[2026-07-08 18:03:34.816] All HTTPS deployment artifacts present. No action required.
+[2026-07-08 18:03:34.821] Checking Windows Firewall rules via COM reflection for C:\Users\dell\IETM 28launched\server.exe
+[2026-07-08 18:03:34.899] Correct firewall rule already exists and no blocking rules found. No elevation required.
+[2026-07-08 18:03:34.899] Starting server.exe...
+[2026-07-08 18:03:34.916] server.exe launched. PID=26388
+[2026-07-08 18:03:34.916] Entering ready-wait loop (timeout=30000 ms).
+[2026-07-08 18:03:35.428] Port detected/changed: -1 -> 3000. Switching health checks.
+[2026-07-08 18:03:35.430] Server alive on port 3000 after 500 ms.
+[2026-07-08 18:03:35.448] Opening browser at LAN IP: 192.168.1.9
+[2026-07-08 18:03:35.448] Opening browser: https://192.168.1.9:3000
+[2026-07-08 18:03:35.574] Browser opened. Launcher exiting.
+[2026-08-04 11:58:38.321] =======================================================
+[2026-08-04 11:58:38.322] IETM Launcher started.
+[2026-08-04 11:58:38.322] Base path : C:\Users\dell\TOT\
+[2026-08-04 11:58:38.331] server.info present. Testing port 3000 for a live server...
+[2026-08-04 11:58:38.358] Existing server confirmed alive on port 3000. Opening browser.
+[2026-08-04 11:58:38.367] Opening browser at LAN IP: 10.139.254.150
+[2026-08-04 11:58:38.417] Browser opened. Launcher exiting (fast path).

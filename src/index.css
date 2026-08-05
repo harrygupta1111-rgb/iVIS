@@ -1,0 +1,398 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500;700&display=swap');
+@import "tailwindcss";
+
+:root {
+  --app-blue: #7dd3fc;
+  /* Modern sky blue (Sky 300) */
+  --app-blue-hover: #38bdf8;
+  /* Sky 400 */
+  --app-blue-active: #0ea5e9;
+  /* Sky 500 */
+  --app-gray-bg: #f8fafc;
+  /* Cool workspace light slate */
+  --app-border: #cbd5e1;
+  --ui-scale: 0.9;
+  --base-font-size: 16px;
+}
+
+html {
+  font-size: calc(var(--base-font-size) * var(--ui-scale));
+}
+
+@theme {
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-mono: "JetBrains Mono", "Courier New", ui-monospace, SFMono-Regular, monospace;
+}
+
+/* Global resets and workspace container */
+body {
+  background-color: var(--app-gray-bg);
+  font-family: var(--font-sans);
+  color: #000000;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+
+
+/* Modern Enterprise Button helper */
+.modern-btn-primary {
+  background-color: var(--app-blue);
+  color: #000000;
+  /* Black text for readability on sky blue */
+  padding: 8px 18px;
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 4px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #38bdf8;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  font-family: inherit;
+  transition: all 0.15s ease-in-out;
+  user-select: none;
+}
+
+.modern-btn-primary:hover {
+  background-color: var(--app-blue-hover);
+  border-color: var(--app-blue-hover);
+  color: #000000;
+}
+
+.modern-btn-primary:active {
+  background-color: var(--app-blue-active);
+  transform: translateY(0.5px);
+}
+
+.modern-btn-primary:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none;
+}
+
+/* Modern Minimalist PDF Page Design */
+.pdf-page {
+  background: white;
+  border: 1px solid #cbd5e1;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04), 0 1px 3px rgba(0, 0, 0, 0.02);
+  padding: 24px;
+  box-sizing: border-box;
+  position: relative;
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+.pdf-page:hover {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.06), 0 2px 6px rgba(0, 0, 0, 0.03);
+}
+
+/* Standard Minimal Scrollbars for contemporary look */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #b6cfe1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #50a0d1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #000000;
+}
+
+/* Fallback/compatibility layout styles in case there are references */
+.win-raised {
+  border: 1px solid #e2e8f0;
+  background-color: #ffffff;
+}
+
+.win-sunken {
+  border: 1px solid #e2e8f0;
+  background-color: #f8fafc;
+}
+
+.win-border-raised {
+  border: 1px solid #e2e8f0;
+}
+
+.win-border-sunken {
+  border: 1px solid #e2e8f0;
+}
+
+.win-border-double-raised {
+  border: 1px solid #cbd5e1;
+}
+
+.win-btn {
+  background: #ffffff;
+  border: 1px solid #cbd5e1;
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  color: #1e293b;
+  font-family: var(--font-sans);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s ease-in-out;
+}
+
+.win-btn:hover:not(:disabled) {
+  background-color: #f1f5f9;
+  border-color: #94a3b8;
+}
+
+.win-btn:active:not(:disabled) {
+  background-color: #e2e8f0;
+}
+
+.win-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.win-btn-blue {
+  background-color: var(--app-blue);
+  color: #000000;
+  /* Black text for readability on sky blue */
+  border: 1px solid #38bdf8;
+  padding: 10px 24px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 4px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  transition: all 0.15s ease-in-out;
+}
+
+.win-btn-blue:hover {
+  background-color: var(--app-blue-hover);
+  border-color: var(--app-blue-hover);
+  color: #000000;
+}
+
+.win-btn-blue:active {
+  background-color: var(--app-blue-active);
+  transform: translateY(0.5px);
+}
+
+.win-input {
+  background-color: #ffffff;
+  border: 1px solid #cbd5e1;
+  border-radius: 4px;
+  padding: 6px 12px;
+  font-size: 14px;
+  color: #1e293b;
+  outline: none;
+  font-family: var(--font-sans);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.02);
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.win-input:focus {
+  border-color: #38bdf8;
+  box-shadow: 0 0 0 2px rgba(56, 189, 248, 0.2);
+}
+
+.tree-expander {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Custom Slider Thumb Styles */
+input[type=range].custom-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: #0ea5e9;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 0 0 2px white;
+  transition: transform 0.1s;
+}
+
+input[type=range].custom-slider::-webkit-slider-thumb:hover {
+  transform: scale(1.1);
+  background: #0284c7;
+}
+
+input[type=range].custom-slider::-webkit-slider-thumb:active {
+  transform: scale(1.1);
+  background: #0369a1;
+}
+
+input[type=range].custom-slider::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  background: transparent;
+}
+
+input[type=range].custom-slider::-moz-range-thumb {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: #0ea5e9;
+  cursor: pointer;
+  border: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 0 0 2px white;
+  transition: transform 0.1s;
+}
+
+input[type=range].custom-slider::-moz-range-thumb:hover {
+  transform: scale(1.1);
+  background: #0284c7;
+}
+
+input[type=range].custom-slider::-moz-range-track {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  background: transparent;
+}
+
+/* Navigation hover scale - subtle military-style */
+.nav-item-hover {
+  transform-origin: left center;
+  transition: transform 200ms cubic-bezier(.2, .9, .2, 1);
+}
+
+.nav-item-hover:hover {
+  transform: scale(1.10);
+}
+
+/* Viewer toolbar responsive tweaks: keep single row, allow horizontal scroll on very small screens */
+#viewer_toolbar {
+  overflow-x: auto;
+}
+
+@media (max-width: 900px) {
+
+  #viewer_toolbar .win-btn,
+  #viewer_toolbar .win-btn-blue {
+    padding: 6px 8px;
+    font-size: 12px;
+  }
+
+  #viewer_toolbar {
+    gap: 6px;
+  }
+}
+
+@media (max-width: 640px) {
+
+  #viewer_toolbar .win-btn,
+  #viewer_toolbar .win-btn-blue {
+    padding: 5px 6px;
+    font-size: 11px;
+  }
+}
+
+/* Viewer toolbar grouping: ensure groups wrap as units and left-align when wrapped */
+#viewer_toolbar {
+  align-content: flex-start;
+}
+
+.viewer-toolbar-group {
+  flex: 0 1 auto;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.viewer-toolbar-group.flex-grow {
+  flex: 1 1 auto;
+}
+
+/* Ensure the central toolbar group can take available space and keep items centered */
+#viewer_toolbar .viewer-toolbar-group:nth-child(2) {
+  flex: 1 1 40%;
+  justify-content: center;
+}
+
+@media (max-width: 700px) {
+
+  /* Allow groups to stack but stay left-aligned */
+  #viewer_toolbar {
+    gap: 8px;
+  }
+
+  .viewer-toolbar-group {
+    margin-right: 8px;
+  }
+}
+
+@media (max-width: 520px) {
+
+  /* On very small screens, allow center to shrink and search to collapse */
+  #viewer_toolbar {
+    padding: 8px;
+  }
+
+  #viewer_toolbar .viewer-toolbar-group:nth-child(2) {
+    flex-basis: 100%;
+    order: 2;
+    margin-top: 6px;
+  }
+
+  #viewer_toolbar .viewer-toolbar-group:last-child {
+    order: 3;
+  }
+
+  #viewer_toolbar .viewer-toolbar-group:first-child {
+    order: 1;
+  }
+
+  #viewer_toolbar input[type="text"] {
+    max-width: 120px;
+  }
+}
+
+/* Hover information drawer */
+.nav-hover-drawer {
+  position: absolute;
+  z-index: 60;
+  min-width: 220px;
+  max-width: 320px;
+  background: #ffffff;
+  border: 1px solid var(--app-border);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+  padding: 8px 10px;
+  font-size: 12px;
+  color: #0f172a;
+  border-radius: 6px;
+  transition: opacity 160ms ease, transform 160ms ease;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.nav-hover-drawer.show {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.nav-hover-drawer .title {
+  font-weight: 700;
+  font-size: 12px;
+  margin-bottom: 4px;
+  color: #0ea5e9;
+}
+
+.nav-hover-drawer .desc {
+  line-height: 1.25;
+  color: #1f2937;
+}
