@@ -895,12 +895,20 @@ export default function App() {
             for (const sd of subdocs) {
               const subId = sd.getAttribute('id') || '';
               const subTitle = sd.getAttribute('title') || subId;
+              const subFile = sd.getAttribute('file');
               subs.push({ id: subId, title: subTitle, docId: subId });
-              newManualsInfo[subId] = { title: subTitle, pagesCount: 0, startPage: 1 };
+              if (subFile) {
+                newManualsInfo[subId] = { title: subTitle, pagesCount: 0, startPage: 1 };
+              }
             }
             newStructure.push({ id: sid, title: stitle, isExpandable: true, subDocuments: subs });
           } else if (file) {
             // Single-file section
+            newManualsInfo[sid] = { title: stitle, pagesCount: 0, startPage: 1 };
+            newStructure.push({ id: sid, title: stitle, isExpandable: false, docId: sid });
+          } else {
+            // Placeholder section – no file linked yet; still show as a selectable item
+            // in the navigation. Clicking it will show a "no document available" message.
             newManualsInfo[sid] = { title: stitle, pagesCount: 0, startPage: 1 };
             newStructure.push({ id: sid, title: stitle, isExpandable: false, docId: sid });
           }
@@ -1702,7 +1710,8 @@ export default function App() {
           </div>
         );
       } else {
-        // Single PDF manuals
+        // Single PDF manuals and placeholder sections – always rendered as normal, clickable items.
+        // If no PDF is linked, the viewer will show a "no document available" message.
         const isActive = activeManualId === node.docId;
         return (
           <div key={node.id} className="text-left select-none text-sm">
@@ -1869,7 +1878,7 @@ export default function App() {
                 transform: `translateY(clamp(2px, 2vw, -4px))`
               }}
             >
-              RFT1001 IETM v1.10
+              iVIS IETM v1.10
             </div>
 
             <div className="flex flex-row items-end gap-3" style={{ transform: `translateY(clamp(4px, 1.5vw, 20px))` }}>
@@ -2259,6 +2268,25 @@ export default function App() {
                 className="flex-1 overflow-y-auto overflow-x-scroll"
                 style={{ overflowAnchor: 'none' }}
               >
+
+                {/* No-document placeholder – shown when the selected section has no linked PDF yet */}
+                {activeManualId && !isPdfManual && (
+                  <div className="flex-1 flex items-center justify-center w-full h-full min-h-[400px]">
+                    <div className="flex flex-col items-center gap-4 text-center select-none" style={{ maxWidth: 'clamp(240px, 28vw, 380px)' }}>
+                      <div className="rounded-full bg-neutral-100 border border-neutral-200 flex items-center justify-center" style={{ width: 'clamp(48px, 5vw, 72px)', height: 'clamp(48px, 5vw, 72px)' }}>
+                        <FileText style={{ width: 'clamp(22px, 2.4vw, 36px)', height: 'clamp(22px, 2.4vw, 36px)' }} className="text-neutral-400" />
+                      </div>
+                      <div>
+                        <p className="font-bold text-neutral-600 font-sans" style={{ fontSize: 'clamp(11px, 1.1vw, 16px)', marginBottom: 'clamp(4px, 0.4vw, 8px)' }}>
+                          {manualsInfo[activeManualId]?.title || 'This Section'}
+                        </p>
+                        <p className="text-neutral-400 font-sans" style={{ fontSize: 'clamp(9px, 0.9vw, 13px)' }}>
+                          There is no document in this tab yet.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                )}
 
                 {/* Search error alert dialog */}
                 {searchError && (
